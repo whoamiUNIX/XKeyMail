@@ -19,3 +19,13 @@ Simple BCC audit/statistics via PHP imap. Tested on postfix server.
 - [ ] Custom notifications
 
 ...
+
+#### See simple example screenshots:
+![image](https://github.com/whoamiUNIX/XKeyMail/blob/master/screenshots/xkeymail1.png)
+
+- Search output:
+![image](https://github.com/whoamiUNIX/XKeyMail/blob/master/screenshots/xkeymail2.png)
+
+
+- Statistics output:
+![image](https://github.com/whoamiUNIX/XKeyMail/blob/master/screenshots/xkeymail3.png)
