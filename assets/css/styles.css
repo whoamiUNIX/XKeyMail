@@ -1,0 +1,21 @@
+i#mail_icon.material-icons{
+  font-size:xx-large;
+}
+
+@media (max-width:767px) {
+  i#mail_icon.material-icons{
+    font-size:x-large;
+  }
+}
+
+label, .radio label, .checkbox label, .help-block{
+  font-size:13px;
+}
+
+i#output_info_icon.material-icons{
+  font-size:x-large;
+}
+
+#search_button {
+ text-align: center;
+}
